@@ -1,7 +1,5 @@
 import React from "react";
-
-const name = "Liza"; // Replace with your actual name
-const city = "New York city"; // Replace with your actual city
+import { name, city } from "../data/data";
 
 function Home() {
   return (
